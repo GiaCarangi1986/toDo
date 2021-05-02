@@ -1,0 +1,9 @@
+.input{
+    padding:10px;
+  margin:20px 5px 0px 0px; 
+  min-width: 350px;
+}
+
+.div{
+    display:inline-block;
+}

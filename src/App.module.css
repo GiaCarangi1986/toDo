@@ -1,0 +1,6 @@
+.div{
+    display:block; /*Делаем блочный элемент*/
+margin:auto;/*Задаем автоматический внешний отступ*/
+min-width: 400px;
+max-width: max-content;
+}
